@@ -3,7 +3,17 @@
   font-family: hack, "deja vu sans mono", monaco, monospace;
 }
 
+
+body
+{
+  margin:16px;
+}
+
+
 header
 {
   text-align:center;
+  background-color:#9e1b2a;
+  color:white;
+  font-weight:bold;
 }
